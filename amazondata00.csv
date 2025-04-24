@@ -1,0 +1,911 @@
+Brand,Gender_category,Category,Price (₹),Discount (%),Rating,Sales Count,Country,Water Resistant,Gender,Total_Sales_Amount
+Bata,women,sandal,429.0,39.0,4.0,500,India,NO,female,214500.0
+SPARX,men,sandal,629.0,37.0,4.0,800,India,NO,male,503200.0
+XE Looks,women,heel,699.0,72.0,4.0,50,India,NO,female,34950.0
+Centrino,men,flip-flop,769.0,67.0,3.6,0,India,NO,male,0.0
+Sparx,men,slipper,279.0,20.0,4.1,1,India,NO,male,279.0
+Bata,women,sandal,932.0,28.0,4.1,50,India,NO,female,46600.0
+Bata,men,sandal,879.0,45.0,3.6,200,India,NO,male,175800.0
+Shoetopia,girl,shoe,424.0,79.0,3.9,50,India,NO,female,21200.0
+KazarMax,men,sandal,899.0,55.0,3.6,100,India,NO,male,89900.0
+Bata,women,sandal,429.0,39.0,3.9,50,India,NO,female,21450.0
+HEALTH,women,sandal,895.0,31.0,3.8,0,India,NO,female,0.0
+Shoetopia,women,shoe,426.0,79.0,3.6,50,India,NO,female,21300.0
+Bata,women,sandal,429.0,39.0,4.1,50,India,NO,female,21450.0
+SilverArrow,women,heel,589.0,63.0,4.4,0,India,NO,female,0.0
+Shoetopia,women,shoe,499.0,50.0,3.8,0,India,NO,female,0.0
+Bata,women,heel,739.0,38.0,4.0,50,India,NO,female,36950.0
+Hush Puppies,women,slipper,2138.0,39.0,4.3,0,India,NO,female,0.0
+Bata,women,sandal,540.0,10.0,3.9,100,India,NO,female,54000.0
+Bata,women,heel,829.0,36.0,3.9,50,India,NO,female,41450.0
+Bata,women,sandal,680.0,32.0,4.0,50,India,NO,female,34000.0
+Shoetopia,women,shoe,499.0,75.0,3.6,0,India,NO,female,0.0
+Mochi,women,heel,760.0,55.0,3.6,0,India,NO,female,0.0
+LUVFEET,women,sandal,664.0,34.0,4.1,0,India,NO,female,0.0
+Shoetopia,women,shoe,659.0,67.0,4.2,50,India,NO,female,32950.0
+Shoetopia,women,shoe,499.0,75.0,3.6,0,India,NO,female,0.0
+Hush Puppies,women,slipper,2138.0,39.0,4.3,0,India,NO,female,0.0
+Doctor Extra Soft,women,shoe,698.0,65.0,4.8,0,India,NO,female,0.0
+Bata,women,sandal,680.0,32.0,4.0,50,India,NO,female,34000.0
+Bacca Bucci,men,sneaker,1499.0,57.0,4.1,50,India,NO,male,74950.0
+Mochi,women,heel,760.0,55.0,3.6,0,India,NO,female,0.0
+LUVFEET,women,sandal,664.0,34.0,4.1,0,India,NO,female,0.0
+Shoetopia,women,shoe,599.0,40.0,3.9,50,India,NO,female,29950.0
+Shoetopia,women,shoe,659.0,67.0,4.2,50,India,NO,female,32950.0
+Doctor Extra Soft,women,slipper,398.0,60.0,3.9,200,India,NO,female,79600.0
+FLITE,men,slipper,325.0,36.0,3.9,100,India,NO,male,32500.0
+Hush Puppies,men,sandal,1447.0,42.0,4.0,50,India,NO,male,72350.0
+Doctor Extra Soft,men,slipper,694.0,61.0,4.0,200,India,NO,male,138800.0
+Bata,women,sandal,791.0,34.0,3.9,50,India,NO,female,39550.0
+Crocs,unisex,sandal,2239.0,20.0,3.6,0,China,NO,unisex,0.0
+Hush Puppies,women,slipper,1449.0,42.0,4.3,0,India,NO,female,0.0
+Bata,women,sandal,624.0,52.0,4.2,100,India,NO,female,62400.0
+HEALTH,women,slipper,599.0,40.0,3.8,50,India,NO,female,29950.0
+Bata,women,slipper,449.0,25.0,4.3,50,India,NO,female,22450.0
+XE Looks,girl,slipper,929.0,47.0,4.1,0,India,NO,female,0.0
+Marc,women,sandal,897.0,55.0,4.2,0,India,NO,female,0.0
+Shoetopia,women,shoe,399.0,60.0,3.6,0,India,NO,female,0.0
+Mochi,women,sandal,894.0,40.0,3.9,50,India,NO,female,44700.0
+Bata,women,sandal,1104.0,15.0,3.7,0,India,NO,female,0.0
+Shoetopia,women,shoe,399.0,60.0,3.6,0,India,NO,female,0.0
+Mochi,women,sandal,894.0,40.0,3.9,50,India,NO,female,44700.0
+Bata,women,slipper,478.0,32.0,3.9,50,India,NO,female,23900.0
+Ortho,women,slipper,285.0,43.0,3.9,0,India,NO,female,0.0
+Bata,women,sandal,572.0,28.0,3.8,0,India,NO,female,0.0
+Neeman,men,slipper,479.0,31.0,4.0,100,India,NO,male,47900.0
+Doctor Extra Soft,women,slipper,598.0,67.0,4.0,50,India,YES,female,29900.0
+Mochi,women,sandal,745.0,50.0,4.0,0,India,NO,female,0.0
+CASSIEY,women,slipper,399.0,20.0,3.8,0,India,NO,female,0.0
+Mochi,women,heel,1194.0,40.0,3.9,0,India,NO,female,0.0
+Mochi,women,heel,1094.0,45.0,4.1,0,India,NO,female,0.0
+Bata,men,sandal,500.0,28.0,3.8,50,India,NO,male,25000.0
+Metro,women,heel,1035.0,48.0,3.9,50,India,NO,female,51750.0
+Bata,women,slipper,1418.0,17.0,4.0,0,India,NO,female,0.0
+Bata,women,slipper,422.0,23.0,4.1,0,India,NO,female,0.0
+Bata,women,slipper,389.0,22.0,4.0,100,India,NO,female,38900.0
+Shoetopia,girl,shoe,499.0,75.0,4.6,0,India,NO,female,0.0
+Crocs,unisex,sandal,1369.0,45.0,4.3,0,India,NO,unisex,0.0
+Crocs,women,sandal,1589.0,47.0,4.0,0,Vietnam,NO,female,0.0
+Bata,women,slipper,524.0,30.0,4.1,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+Centrino,men,sandal,719.0,71.0,3.5,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+FAUSTO,women,sandal,719.0,64.0,4.2,0,India,NO,female,0.0
+Shoetopia,women,shoe,399.0,60.0,3.6,0,India,NO,female,0.0
+Bata,women,shoe,679.0,15.0,4.1,50,India,NO,female,33950.0
+Doctor Extra Soft,women,shoe,748.0,25.0,4.1,100,India,NO,female,74800.0
+Doctor Extra Soft,women,flip-flop,398.0,60.0,4.1,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Bata,women,slipper,357.0,28.0,3.9,0,India,NO,female,0.0
+HEALTH,women,slipper,699.0,30.0,4.0,50,India,NO,female,34950.0
+Doctor Extra Soft,women,shoe,898.0,10.0,4.0,200,India,NO,female,179600.0
+SVAAR,women,flip-flop,499.0,62.0,3.4,0,India,NO,female,0.0
+BATA,women,slipper,785.0,29.0,3.9,0,India,NO,female,0.0
+TRASE,women,sandal,748.0,58.0,4.3,0,India,NO,female,0.0
+Centrino,women,slipper,789.0,68.0,3.6,50,India,NO,female,39450.0
+Dr.Ortho,women,slipper,371.0,25.0,4.0,100,India,NO,female,37100.0
+Ortho,girl,slipper,369.0,47.0,3.9,0,India,NO,female,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+FAUSTO,women,heel,949.0,68.0,4.2,0,India,NO,female,0.0
+Bata,women,slipper,764.0,55.0,4.0,0,India,NO,female,0.0
+Bata,men,slipper,618.0,38.0,3.9,50,India,NO,male,30900.0
+XE Looks,girl,heel,699.0,53.0,3.9,0,India,NO,female,0.0
+Crocs,unisex,sandal,1039.0,58.0,3.9,0,Vietnam,NO,unisex,0.0
+Carlton London,women,slipper,674.0,55.0,4.0,0,India,NO,female,0.0
+Metro,women,sandal,1055.0,47.0,3.8,0,India,NO,female,0.0
+XE Looks,women,slipper,929.0,63.0,4.8,0,India,NO,female,0.0
+SCHOLL,women,slipper,1699.0,23.0,4.1,0,India,NO,female,0.0
+Centrino,women,slipper,789.0,68.0,3.7,0,India,NO,female,0.0
+Mochi,women,sandal,745.0,50.0,3.8,0,India,NO,female,0.0
+Mochi,women,sandal,670.0,55.0,4.0,0,India,NO,female,0.0
+DRUNKEN,girl,slipper,399.0,33.0,3.8,100,China,NO,female,39900.0
+ORTHO JOY,women,slipper,764.0,69.0,3.9,0,India,NO,female,0.0
+Mochi,women,sandal,760.0,49.0,3.8,0,India,NO,female,0.0
+Metro,women,heel,1194.0,48.0,4.0,0,India,NO,female,0.0
+Mochi,women,sandal,796.0,60.0,4.0,0,India,NO,female,0.0
+Scholl,women,sandal,1359.0,41.0,3.7,0,India,NO,female,0.0
+Mochi,women,heel,1320.0,47.0,3.8,0,India,NO,female,0.0
+XE Looks,girl,heel,699.0,53.0,4.4,0,India,NO,female,0.0
+Woodland,men,slipper,1726.0,33.0,4.0,0,India,NO,male,0.0
+Mochi,women,sandal,645.0,50.0,3.9,0,India,NO,female,0.0
+Mochi,women,sandal,1134.0,43.0,4.0,0,India,NO,female,0.0
+Mochi,women,slipper,930.0,45.0,4.0,0,India,NO,female,0.0
+Mochi,women,shoe,1094.0,45.0,3.6,0,India,NO,female,0.0
+Metro,women,sandal,715.0,52.0,4.0,0,India,NO,female,0.0
+TRASE,women,slipper,679.0,51.0,3.9,0,India,NO,female,0.0
+Mochi,women,slipper,930.0,45.0,4.0,0,India,NO,female,0.0
+Shoetopia,women,shoe,599.0,70.0,3.0,0,India,NO,female,0.0
+Bata,women,slipper,713.0,29.0,4.2,0,India,NO,female,0.0
+Bata,women,shoe,509.0,15.0,3.9,50,India,NO,female,25450.0
+Doctor Extra Soft,men,slipper,499.0,38.0,4.0,100,India,NO,male,49900.0
+Shoetopia,girl,shoe,499.0,75.0,3.7,0,India,NO,female,0.0
+SPARX,men,sandal,713.0,35.0,4.0,200,India,NO,male,142600.0
+Centrino,women,slipper,789.0,68.0,3.7,0,India,NO,female,0.0
+ASIAN,women,shoe,699.0,30.0,3.7,0,India,NO,female,0.0
+TRASE,women,sandal,779.0,51.0,3.8,0,India,NO,female,0.0
+Shoetopia,women,shoe,570.0,71.0,3.9,0,India,NO,female,0.0
+adidas,women,slipper,1007.0,50.0,3.9,0,India,NO,female,0.0
+SVAAR,boy,shoe,499.0,67.0,4.0,50,India,NO,male,24950.0
+Shoetopia,girl,shoe,599.0,70.0,3.6,0,India,NO,female,0.0
+TRASE,women,sandal,629.0,55.0,3.9,0,India,YES,female,0.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,0,India,NO,female,0.0
+HEALTH,women,sandal,599.0,40.0,3.8,0,India,NO,female,0.0
+adidas,women,slipper,1007.0,50.0,3.9,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+Mochi,women,slipper,975.0,51.0,4.0,0,India,NO,female,0.0
+Shoetopia,women,shoe,599.0,70.0,3.0,0,India,NO,female,0.0
+Bata,women,slipper,713.0,29.0,4.2,0,India,NO,female,0.0
+Van Heausen,women,sandal,456.0,75.0,3.9,0,China,NO,female,0.0
+Mochi,women,shoe,1259.0,45.0,4.2,0,India,NO,female,0.0
+Bata,women,shoe,509.0,15.0,3.9,50,India,NO,female,25450.0
+Doctor Extra Soft,men,slipper,499.0,38.0,4.0,100,India,NO,male,49900.0
+LOVEHUSH,girl,slipper,358.0,64.0,4.3,0,India,NO,female,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.6,0,India,NO,female,0.0
+SPARX,men,sandal,629.0,29.0,4.0,100,India,NO,male,62900.0
+Hygear,men,slipper,395.0,56.0,3.6,0,India,NO,male,0.0
+SPARX,men,sandal,713.0,35.0,4.0,200,India,NO,male,142600.0
+ASIAN,women,shoe,699.0,30.0,3.7,0,India,NO,female,0.0
+Shoetopia,girl,shoe,499.0,75.0,3.7,0,India,NO,female,0.0
+Centrino,women,slipper,789.0,68.0,3.7,0,India,NO,female,0.0
+TRASE,women,sandal,779.0,51.0,3.8,0,India,NO,female,0.0
+TRASE,women,slipper,679.0,55.0,3.8,0,India,NO,female,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+AADI,men,slipper,619.0,69.0,1.7,0,India,NO,male,0.0
+DFR,girl,heel,389.0,61.0,4.0,0,India,NO,female,0.0
+Woodland,men,sneaker,2838.0,43.0,3.6,0,India,NO,male,0.0
+Woodland,men,boot,2118.0,29.0,2.5,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,YES,female,0.0
+Sandak,women,slipper,524.0,25.0,4.1,0,India,NO,female,0.0
+Yellow,girl,shoe,548.0,70.0,3.6,0,China,NO,female,0.0
+Shoetopia,women,shoe,499.0,75.0,2.4,0,India,NO,female,0.0
+Columbia,men,sandal,3499.0,22.0,4.4,0,Vietnam,NO,male,0.0
+Puma,men,sneaker,2214.0,45.0,4.0,0,India,NO,male,0.0
+AADI,men,slipper,431.0,78.0,3.1,0,India,NO,male,0.0
+DFR,girl,slipper,489.0,51.0,3.4,0,India,NO,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Woodland,men,sneaker,3414.0,21.0,4.2,0,India,NO,male,0.0
+FAUSTO,women,heel,1619.0,60.0,3.9,0,India,NO,female,0.0
+Liberty,men,shoe,2349.0,29.0,3.6,0,India,NO,male,0.0
+ABROS,men,shoe,989.0,45.0,3.7,0,India,NO,male,0.0
+ASIAN,men,shoe,797.0,20.0,3.4,0,India,NO,male,0.0
+Woodland,men,flip-flop,510.0,27.0,3.7,0,India,NO,male,0.0
+Puma,unisex,sneaker,4379.0,37.0,4.0,0,Vietnam,NO,unisex,0.0
+Puma,men,shoe,2199.0,45.0,3.4,0,India,NO,male,0.0
+Puma,unisex,sneaker,2184.0,45.0,3.9,0,China,NO,unisex,0.0
+Puma,unisex,sneaker,2449.0,30.0,4.1,0,India,NO,unisex,0.0
+Bata,boy,sneaker,494.0,67.0,4.2,0,India,NO,male,0.0
+Hygear,men,slipper,398.0,60.0,3.8,50,India,NO,male,19900.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.4,0,India,NO,female,0.0
+DFR,girl,slipper,529.0,47.0,3.2,0,India,NO,female,0.0
+DFR,girl,heel,389.0,61.0,4.0,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,YES,female,0.0
+DRUNKEN,girl,slipper,649.0,59.0,3.9,0,China,NO,female,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.6,0,India,NO,female,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+XE Looks,women,slipper,739.0,51.0,3.5,0,India,NO,female,0.0
+SVAAR,women,flip-flop,499.0,62.0,3.4,0,India,NO,female,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.4,0,India,NO,female,0.0
+Puma,men,sneaker,4809.0,31.0,4.0,0,China,NO,male,0.0
+Leepeeter,men,shoe,524.0,48.0,2.0,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+ARAMISH,men,shoe,1789.0,47.0,3.7,0,India,NO,male,0.0
+Skechers,men,sneaker,4899.0,30.0,4.6,0,Vietnam,NO,male,0.0
+Woodland,men,sneaker,2077.0,48.0,3.8,0,India,NO,male,0.0
+FEROC,boy,shoe,999.0,50.0,3.5,0,India,NO,male,0.0
+TrueYarn,men,slipper,1299.0,63.0,4.0,0,India,NO,male,0.0
+Skechers,men,shoe,5399.0,40.0,4.1,0,Vietnam,NO,male,0.0
+Metro,men,loafer,2094.0,40.0,3.4,0,India,NO,male,0.0
+Power,men,shoe,1779.0,11.0,3.6,0,India,NO,male,0.0
+Marc,women,heel,898.0,64.0,4.0,50,India,NO,female,44900.0
+Woodland,men,shoe,2119.0,36.0,3.0,0,India,NO,male,0.0
+Rising,men,shoe,729.0,54.0,3.3,0,India,YES,male,0.0
+ASICS,unisex,shoe,6549.0,40.0,4.4,0,Vietnam,NO,unisex,0.0
+Skechers,men,sneaker,2699.0,55.0,3.8,0,Vietnam,NO,male,0.0
+Skechers,men,shoe,2699.0,55.0,4.1,0,Vietnam,NO,male,0.0
+Campus,men,shoe,1329.0,30.0,3.7,0,India,NO,male,0.0
+FAUSTO,men,shoe,1359.0,63.0,4.0,0,India,NO,male,0.0
+SHOERELLA,unisex,shoe,680.0,43.0,1.4,0,India,YES,unisex,0.0
+HITZ,men,slipper,2050.0,54.0,3.4,0,India,NO,male,0.0
+TrueYarn,men,sandal,1499.0,57.0,3.9,0,India,NO,male,0.0
+Skechers,girl,sneaker,2716.0,46.0,4.6,0,China,NO,female,0.0
+Hush Puppies,men,slipper,1924.0,45.0,3.8,0,India,NO,male,0.0
+Puma,men,slipper,1192.0,40.0,3.6,0,India,NO,male,0.0
+Puma,unisex,sneaker,1749.0,65.0,3.6,0,Vietnam,NO,unisex,0.0
+FAUSTO,men,loafer,1529.0,62.0,3.4,0,India,NO,male,0.0
+HEALTH,women,sandal,895.0,31.0,3.8,50,India,NO,female,44750.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,79.0,4.2,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,50,India,YES,female,39900.0
+FAUSTO,women,heel,1899.0,62.0,4.2,0,India,NO,female,0.0
+Woodland,men,loafer,2486.0,38.0,3.6,0,India,NO,male,0.0
+Kids,boy,sneaker,399.0,60.0,3.5,0,India,NO,male,0.0
+Auserio,men,shoe,1999.0,56.0,4.1,0,India,NO,male,0.0
+Centrino,men,loafer,559.0,71.0,3.2,0,India,NO,male,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+SVAAR,women,flip-flop,499.0,62.0,3.4,0,India,NO,female,0.0
+Hygear,men,slipper,395.0,56.0,3.6,0,India,NO,male,0.0
+Puma,unisex,sneaker,3120.0,61.0,3.6,0,Vietnam,NO,unisex,0.0
+Puma,unisex,slipper,434.0,46.0,3.8,0,India,NO,unisex,0.0
+Woodland,men,sneaker,2517.0,40.0,3.9,0,India,NO,male,0.0
+AADI,men,shoe,452.0,55.0,3.6,0,India,NO,male,0.0
+Puma,unisex,sneaker,1748.0,38.0,4.3,0,China,NO,unisex,0.0
+Puma,unisex,sneaker,1804.0,40.0,4.4,0,China,NO,unisex,0.0
+Puma,unisex,sneaker,4159.0,48.0,4.1,0,Vietnam,NO,unisex,0.0
+Puma,unisex,sneaker,4900.0,51.0,3.9,0,India,NO,unisex,0.0
+Centrino,women,slipper,789.0,68.0,3.6,50,India,NO,female,39450.0
+TRASE,women,heel,879.0,67.0,5.0,0,India,NO,female,0.0
+crocs,boy,sandal,1409.0,44.0,4.2,0,Vietnam,NO,male,0.0
+Bata,women,loafer,1121.0,34.0,1.0,0,India,NO,female,0.0
+Woodland,men,sneaker,2365.0,38.0,3.9,0,India,NO,male,0.0
+ASIAN,men,sneaker,699.0,53.0,3.7,0,India,NO,male,0.0
+Puma,unisex,slipper,919.0,54.0,5.0,0,India,NO,unisex,0.0
+Sparx,men,sandal,664.0,30.0,3.9,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,50,India,YES,female,39900.0
+Bata,women,slipper,408.0,32.0,4.0,0,India,NO,female,0.0
+FILA,men,slipper,383.0,80.0,3.9,0,India,NO,male,0.0
+Puma,women,sneaker,2829.0,37.0,3.9,0,India,NO,female,0.0
+Bata,women,slipper,2124.0,15.0,4.1,0,India,NO,female,0.0
+Neoz,men,sandal,999.0,55.0,4.0,0,India,NO,male,0.0
+DRUNKEN,girl,slipper,449.0,62.0,3.3,0,China,NO,female,0.0
+AADI,men,slipper,619.0,69.0,1.7,0,India,NO,male,0.0
+AADI,men,slipper,471.0,76.0,3.1,0,India,NO,male,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+FAUSTO,men,shoe,999.0,60.0,3.5,0,India,NO,male,0.0
+Elle,women,sandal,1338.0,50.0,3.2,0,India,NO,female,0.0
+Bata,men,slipper,340.0,32.0,3.9,0,India,NO,male,0.0
+Bata,men,shoe,879.0,12.0,3.7,0,India,NO,male,0.0
+Bata,girl,shoe,349.0,13.0,4.3,0,India,NO,female,0.0
+Woodland,men,slipper,1860.0,33.0,3.1,0,India,NO,male,0.0
+BATA,women,slipper,996.0,34.0,3.6,0,India,NO,female,0.0
+Disney,girl,shoe,298.0,40.0,3.7,0,India,NO,female,0.0
+SPARX,men,sandal,664.0,30.0,4.0,0,India,NO,male,0.0
+Metro,men,loafer,1919.0,45.0,3.6,0,India,NO,male,0.0
+Mochi,women,slipper,929.0,45.0,2.9,0,India,NO,female,0.0
+Lancer,men,sandal,674.0,44.0,3.8,0,India,NO,male,0.0
+FAUSTO,men,sandal,989.0,67.0,3.5,0,India,NO,male,0.0
+Woodland,men,sandal,843.0,35.0,3.8,0,India,NO,male,0.0
+DFR,girl,heel,389.0,61.0,4.0,0,India,NO,female,0.0
+Hygear,men,slipper,398.0,60.0,3.8,50,India,NO,male,19900.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+AADI,men,sandal,619.0,69.0,5.0,0,India,NO,male,0.0
+HEALTH,girl,slipper,769.0,23.0,3.8,0,India,NO,female,0.0
+TRASE,women,flip-flop,699.0,42.0,3.9,0,India,NO,female,0.0
+TRASE,girl,heel,879.0,67.0,4.5,0,India,NO,female,0.0
+tresmode,women,sandal,2000.0,47.0,4.7,0,India,NO,female,0.0
+Campus,men,shoe,899.0,31.0,3.9,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,NO,female,0.0
+SPARX,men,sandal,756.0,11.0,3.7,0,India,NO,male,0.0
+Mochi,men,sandal,1320.0,47.0,3.6,0,India,NO,male,0.0
+CASSIEY,women,sandal,289.0,42.0,4.1,0,India,NO,female,0.0
+HEALTH,women,slipper,745.0,25.0,3.5,0,India,NO,female,0.0
+Smart,women,heel,648.0,50.0,4.0,0,India,NO,female,0.0
+STEPIZIA,girl,sandal,649.0,35.0,3.6,0,India,NO,female,0.0
+TRASE,women,slipper,699.0,53.0,3.6,0,India,NO,female,0.0
+DRUNKEN,women,slipper,650.0,59.0,3.9,0,China,NO,female,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+DRUNKEN,girl,slipper,1122.0,74.0,3.8,0,China,NO,female,0.0
+FAUSTO,men,loafer,1234.0,59.0,3.9,0,India,NO,male,0.0
+FAUSTO,women,sandal,764.0,69.0,4.0,0,India,NO,female,0.0
+BKRT,girl,sandal,489.0,51.0,4.1,0,India,NO,female,0.0
+SVAAR,boy,slipper,499.0,50.0,4.0,0,India,NO,male,0.0
+BELLA,women,sandal,779.0,59.0,3.8,0,India,NO,female,0.0
+FAUSTO,men,shoe,999.0,67.0,3.8,0,India,NO,male,0.0
+Lancer,men,sandal,674.0,44.0,3.8,0,India,NO,male,0.0
+Power,women,sandal,719.0,10.0,4.1,0,India,NO,female,0.0
+Skechers,men,slipper,1124.0,25.0,3.3,0,China,NO,male,0.0
+Bubblegummers,girl,slipper,388.0,22.0,3.7,0,India,NO,female,0.0
+Shoetopia,women,shoe,499.0,50.0,3.6,0,India,NO,female,0.0
+Yash,women,shoe,749.0,25.0,3.6,0,India,NO,female,0.0
+HEIGHTEN,women,sandal,439.0,51.0,3.7,0,India,NO,female,0.0
+V-HEEL,women,sandal,849.0,55.0,4.4,0,India,NO,female,0.0
+Doctor Extra Soft,girl,shoe,499.0,72.0,3.9,0,India,NO,female,0.0
+Richmen,girl,slipper,399.0,64.0,4.5,0,India,NO,female,0.0
+AROOM,girl,sandal,649.0,62.0,5.0,0,India,NO,female,0.0
+HD,women,slipper,349.0,50.0,3.8,0,India,NO,female,0.0
+HEALTH,women,slipper,599.0,40.0,3.8,50,India,NO,female,29950.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,YES,female,0.0
+TRASE,women,slipper,679.0,51.0,3.9,0,India,NO,female,0.0
+Luxyfeel,women,sandal,499.0,50.0,3.7,0,India,NO,female,0.0
+Doctor Extra Soft,girl,slipper,798.0,71.0,4.5,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,NO,female,0.0
+FAUSTO,men,shoe,1259.0,64.0,4.5,0,India,NO,male,0.0
+FAUSTO,men,shoe,1119.0,63.0,4.7,0,India,NO,male,0.0
+FAUSTO,men,shoe,999.0,60.0,3.5,0,India,NO,male,0.0
+DRUNKEN,girl,slipper,734.0,63.0,4.6,0,China,NO,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Centrino,men,flip-flop,769.0,67.0,3.6,0,India,NO,male,0.0
+Mochi,women,heel,1369.0,45.0,5.0,0,India,NO,female,0.0
+Wolvesden,women,flip-flop,399.0,60.0,3.2,0,India,NO,female,0.0
+BERSACHE,boy,shoe,645.0,84.0,3.2,0,India,NO,male,0.0
+Shoetopia,girl,shoe,599.0,70.0,3.7,0,India,NO,female,0.0
+Puma,women,slipper,1194.0,48.0,3.9,0,India,NO,female,0.0
+DR Plus,men,sandal,799.0,16.0,3.6,0,India,NO,male,0.0
+V-HEEL,women,sandal,1124.0,55.0,4.4,0,India,NO,female,0.0
+doubleu,women,slipper,1299.0,13.0,4.0,0,India,NO,female,0.0
+STEPIZIA,girl,heel,649.0,35.0,2.8,0,India,NO,female,0.0
+DRUNKEN,girl,slipper,515.0,53.0,3.6,0,China,NO,female,0.0
+VIL,unisex,sandal,499.0,50.0,4.0,0,India,NO,unisex,0.0
+ORTHO JOY,women,slipper,899.0,64.0,4.2,0,India,NO,female,0.0
+Shoetopia,women,shoe,499.0,75.0,4.0,0,India,NO,female,0.0
+DRUNKEN,girl,slipper,449.0,79.0,3.9,0,China,NO,female,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.4,0,India,NO,female,0.0
+AADI,men,slipper,471.0,76.0,3.1,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,0,India,YES,female,0.0
+DRUNKEN,girl,slipper,679.0,57.0,3.9,0,China,NO,female,0.0
+TRASE,women,slipper,679.0,51.0,3.9,0,India,NO,female,0.0
+HEALTH,men,sandal,645.0,64.0,3.6,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,NO,female,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+Bata,men,slipper,536.0,28.0,3.5,0,India,NO,male,0.0
+Power,men,slipper,349.0,30.0,4.2,0,India,NO,male,0.0
+WALKAROO,boy,sandal,227.0,1.0,3.3,0,India,NO,male,0.0
+Centrino,boy,shoe,579.0,74.0,3.6,0,India,NO,male,0.0
+Woodland,men,slipper,1658.0,41.0,3.6,0,India,NO,male,0.0
+ORTHO JOY,girl,slipper,850.0,66.0,3.8,0,India,NO,female,0.0
+HEALTH,women,slipper,699.0,30.0,4.0,0,India,NO,female,0.0
+Liberty,men,shoe,478.0,60.0,3.7,0,India,NO,male,0.0
+Lancer,men,slipper,499.0,58.0,3.4,0,India,NO,male,0.0
+LANCER,boy,shoe,629.0,52.0,4.1,0,India,NO,male,0.0
+Campus,men,shoe,899.0,31.0,3.9,0,India,NO,male,0.0
+SPARX,men,sandal,734.0,30.0,4.1,0,India,NO,male,0.0
+Sparx,men,sandal,465.0,40.0,3.5,0,India,NO,male,0.0
+Puma,women,shoe,2559.0,43.0,3.7,0,India,NO,female,0.0
+Sparx,men,slipper,299.0,20.0,4.1,0,India,NO,male,0.0
+Woodland,men,sandal,2065.0,31.0,3.9,200,India,NO,male,413000.0
+ASIAN,men,shoe,749.0,25.0,3.8,0,India,NO,male,0.0
+Sparx,men,sandal,735.0,26.0,3.6,0,India,NO,male,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+TRASE,women,flip-flop,699.0,56.0,3.9,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,YES,female,0.0
+HEALTH,women,slipper,699.0,30.0,4.0,50,India,NO,female,34950.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+ANNTS,women,sandal,549.0,58.0,4.0,0,India,NO,female,0.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,0,India,NO,female,0.0
+Bata,women,sandal,1731.0,13.0,3.5,0,India,NO,female,0.0
+Neeman,boy,shoe,1715.0,51.0,3.9,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Bata,women,sandal,980.0,25.0,4.1,50,India,NO,female,49000.0
+Bata,men,sandal,560.0,67.0,3.3,0,India,NO,male,0.0
+DRUNKEN,girl,slipper,709.0,74.0,4.0,0,China,NO,female,0.0
+Liberty,unisex,shoe,640.0,68.0,4.5,0,India,NO,unisex,0.0
+Puma,unisex,sneaker,2799.0,65.0,4.3,0,China,NO,unisex,0.0
+Bata,men,loafer,859.0,14.0,3.5,50,India,NO,male,42950.0
+Bata,unisex,shoe,473.0,14.0,3.5,0,India,NO,unisex,0.0
+San Frissco,men,loafer,1574.0,68.0,5.0,0,India,NO,male,0.0
+SPARX,men,sandal,625.0,26.0,4.1,0,India,NO,male,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+DRUNKEN,women,slipper,824.0,48.0,3.9,0,China,NO,female,0.0
+Woodland,men,sandal,841.0,35.0,3.4,0,India,NO,male,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.6,0,India,NO,female,0.0
+HEALTH,women,sandal,895.0,31.0,3.8,50,India,NO,female,44750.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,0,India,NO,female,0.0
+Ajanta,men,sandal,489.0,59.0,4.3,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,50,India,YES,female,29900.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,NO,female,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+Shoe,boy,shoe,839.0,16.0,1.0,0,India,NO,male,0.0
+Red Tape,men,shoe,1859.0,70.0,3.7,0,India,NO,male,0.0
+ASIAN,men,sneaker,624.0,38.0,3.6,0,India,NO,male,0.0
+ASE,men,shoe,869.0,61.0,3.8,0,India,NO,male,0.0
+XE Looks,women,slipper,739.0,51.0,3.5,0,India,NO,female,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.4,0,India,NO,female,0.0
+Doctor Extra Soft,girl,sandal,699.0,30.0,4.1,0,India,YES,female,0.0
+Red Tape,men,shoe,1699.0,15.0,2.4,0,India,NO,male,0.0
+HOOH,unisex,sneaker,499.0,50.0,3.1,0,India,NO,unisex,0.0
+TOR,men,shoe,899.0,63.0,3.4,0,India,NO,male,0.0
+ASIAN,men,shoe,1599.0,45.0,4.0,0,India,NO,male,0.0
+Aircum,men,shoe,599.0,80.0,2.8,0,India,YES,male,0.0
+OFF LIMITS,men,shoe,1599.0,63.0,3.6,0,India,NO,male,0.0
+FAUSTO,men,slipper,1274.0,68.0,3.9,0,India,NO,male,0.0
+Woodland,men,sandal,2048.0,32.0,3.8,0,India,NO,male,0.0
+XYMBOLIC,men,shoe,559.0,67.0,3.3,0,India,NO,male,0.0
+New,unisex,shoe,7300.0,34.0,3.7,0,China,NO,unisex,0.0
+ASIAN,men,shoe,829.0,45.0,3.6,0,India,NO,male,0.0
+Bata,women,heel,829.0,36.0,3.9,0,India,NO,female,0.0
+BATA,women,heel,925.0,38.0,3.9,50,India,NO,female,46250.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,798.0,71.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Marc,women,heel,1482.0,45.0,5.0,0,India,NO,female,0.0
+ORTHO JOY,women,slipper,764.0,69.0,3.9,0,India,NO,female,0.0
+TRASE,women,slipper,679.0,51.0,3.9,0,India,NO,female,0.0
+OFF LIMITS,women,shoe,1499.0,59.0,3.6,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,82.0,4.2,50,India,YES,female,29900.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,YES,female,0.0
+SPARX,men,shoe,864.0,49.0,3.8,0,India,NO,male,0.0
+Lee Cooper,men,boot,1650.0,50.0,3.5,0,India,NO,male,0.0
+Eego,men,shoe,1899.0,53.0,3.3,0,India,NO,male,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.6,0,India,NO,female,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.4,0,India,NO,female,0.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,0,India,NO,female,0.0
+Puma,unisex,sneaker,2799.0,65.0,3.9,0,India,NO,unisex,0.0
+ASICS,men,sneaker,1796.0,64.0,3.9,0,Vietnam,NO,male,0.0
+Puma,men,sneaker,1349.0,70.0,3.4,0,India,NO,male,0.0
+Zixer,men,boot,949.0,68.0,1.8,0,India,NO,male,0.0
+WELL,girl,boot,449.0,44.0,3.8,0,India,NO,female,0.0
+Power,men,shoe,1193.0,40.0,3.4,0,India,NO,male,0.0
+White,men,sandal,664.0,67.0,3.7,0,India,NO,male,0.0
+Campus,men,sneaker,999.0,62.0,3.9,0,India,NO,male,0.0
+Woodland,men,sneaker,2118.0,29.0,4.2,0,India,NO,male,0.0
+Woodland,men,shoe,1642.0,45.0,3.6,0,India,NO,male,0.0
+Bata,men,sneaker,1699.0,15.0,3.1,0,India,NO,male,0.0
+Skechers,men,sneaker,4499.0,50.0,3.8,0,Vietnam,NO,male,0.0
+Campus,men,sneaker,1049.0,30.0,3.6,0,India,NO,male,0.0
+Amico,men,shoe,599.0,76.0,3.1,0,India,NO,male,0.0
+BATA,women,heel,1033.0,31.0,3.9,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,79.0,4.2,50,India,YES,female,29900.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+DFR,girl,slipper,389.0,61.0,4.1,0,India,NO,female,0.0
+DFR,girl,heel,389.0,61.0,4.0,0,India,NO,female,0.0
+DFR,girl,slipper,489.0,51.0,3.4,0,India,NO,female,0.0
+Plaeto,men,shoe,1399.0,39.0,3.8,0,India,NO,male,0.0
+Puma,women,shoe,5299.0,47.0,4.7,0,Vietnam,NO,female,0.0
+Louis Phillippe,men,shoe,3449.0,31.0,4.7,0,India,NO,male,0.0
+DRUNKEN,girl,slipper,411.0,49.0,3.6,0,China,NO,female,0.0
+DFR,girl,slipper,529.0,47.0,3.2,0,India,NO,female,0.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,50,India,NO,female,33200.0
+Puma,unisex,sneaker,2494.0,48.0,3.8,0,Indonesia,NO,unisex,0.0
+crocs,unisex,shoe,3585.0,52.0,4.3,0,China,NO,unisex,0.0
+Hush Puppies,men,sandal,2021.0,49.0,4.1,0,India,NO,male,0.0
+Woodland,men,sneaker,2728.0,43.0,3.7,0,India,NO,male,0.0
+Hush Puppies,men,shoe,2700.0,29.0,3.8,0,India,NO,male,0.0
+Bata,men,shoe,989.0,45.0,3.1,0,India,NO,male,0.0
+Zoom,men,shoe,2298.0,26.0,5.0,0,India,NO,male,0.0
+BOENJOY,unisex,shoe,699.0,46.0,4.5,0,India,NO,unisex,0.0
+Woodland,men,sneaker,2355.0,34.0,3.9,0,India,NO,male,0.0
+Puma,unisex,shoe,3149.0,55.0,2.6,0,China,NO,unisex,0.0
+Woodland,men,loafer,2391.0,32.0,3.4,0,India,NO,male,0.0
+Puma,unisex,sneaker,3520.0,56.0,4.2,0,China,NO,unisex,0.0
+Campus,men,shoe,999.0,50.0,3.9,0,India,NO,male,0.0
+Puma,unisex,sneaker,2660.0,62.0,4.8,0,India,NO,unisex,0.0
+Bata,women,sandal,750.0,50.0,3.0,0,India,NO,female,0.0
+Hygear,men,slipper,399.0,60.0,3.8,50,India,NO,male,19950.0
+Hygear,men,slipper,399.0,60.0,3.9,0,India,NO,male,0.0
+DFR,girl,slipper,619.0,59.0,4.2,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,YES,female,0.0
+Centrino,women,slipper,789.0,68.0,3.6,0,India,NO,female,0.0
+TRASE,women,sandal,629.0,55.0,3.9,0,India,NO,female,0.0
+Marc,women,sandal,1197.0,40.0,3.8,0,India,NO,female,0.0
+Puma,unisex,shoe,1998.0,50.0,4.2,0,Vietnam,NO,unisex,0.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,YES,female,0.0
+Bata,women,sandal,599.0,33.0,4.1,50,India,NO,female,29950.0
+Bacca Bucci,boy,heel,1499.0,50.0,4.2,0,India,NO,male,0.0
+Hush Puppies,men,shoe,2894.0,42.0,2.8,0,India,NO,male,0.0
+Crocs,unisex,sandal,1639.0,45.0,3.8,0,Indonesia,NO,unisex,0.0
+FAUSTO,men,slipper,1274.0,68.0,3.9,0,India,NO,male,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.6,0,India,NO,female,0.0
+XE Looks,girl,slipper,819.0,50.0,4.4,0,India,NO,female,0.0
+Centrino,women,slipper,789.0,68.0,3.3,0,India,NO,female,0.0
+Skechers,women,shoe,3239.0,46.0,4.2,0,Vietnam,NO,female,0.0
+Melbees,girl,shoe,559.0,73.0,4.1,0,China,NO,female,0.0
+Woodland,men,loafer,2351.0,29.0,4.1,0,India,NO,male,0.0
+Puma,men,shoe,1755.0,61.0,3.7,0,India,NO,male,0.0
+ASICS,men,sneaker,2465.0,65.0,3.7,0,Vietnam,NO,male,0.0
+FAUSTO,men,sandal,1099.0,15.0,3.3,0,India,NO,male,0.0
+SPARX,men,shoe,1193.0,35.0,3.8,0,India,NO,male,0.0
+Campus,men,shoe,1119.0,55.0,3.6,0,India,NO,male,0.0
+Woodland,men,slipper,2176.0,19.0,3.1,0,India,NO,male,0.0
+Campus,men,shoe,1399.0,39.0,4.6,0,India,NO,male,0.0
+GLAMSTREET,girl,sandal,1290.0,63.0,3.4,0,India,NO,female,0.0
+Big Player,men,slipper,899.0,61.0,3.8,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,80.0,5.0,0,India,YES,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,YES,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.5,0,India,NO,female,0.0
+Doctor Extra Soft,women,heel,664.0,34.0,3.8,50,India,NO,female,33200.0
+Hygear,men,slipper,395.0,60.0,3.9,100,India,NO,male,39500.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+Skechers,men,sneaker,3000.0,48.0,4.0,0,Vietnam,NO,male,0.0
+Bata,women,sandal,1013.0,22.0,4.1,100,India,NO,female,101300.0
+JACK,men,slipper,1349.0,10.0,3.4,0,India,NO,male,0.0
+ILU,women,slipper,489.0,51.0,4.0,0,China,NO,female,0.0
+Hush Puppies,men,shoe,3199.0,20.0,4.2,0,India,NO,male,0.0
+Tara,men,shoe,995.0,50.0,3.4,0,India,NO,male,0.0
+Feeten,men,shoe,870.0,65.0,5.0,0,India,NO,male,0.0
+HEALTH,women,sandal,899.0,31.0,3.9,0,India,NO,female,0.0
+HEALTH,women,flip-flop,899.0,40.0,5.0,0,India,NO,female,0.0
+Centrino,men,flip-flop,769.0,67.0,3.6,0,India,NO,male,0.0
+KazarMax,men,sandal,899.0,55.0,3.6,0,India,NO,male,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.5,0,India,NO,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Centrino,men,sandal,739.0,70.0,3.2,0,India,NO,male,0.0
+ORTHO JOY,girl,slipper,850.0,66.0,3.8,0,India,NO,female,0.0
+Skechers,men,sneaker,4679.0,40.0,3.9,0,Vietnam,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Doctor Extra Soft,men,shoe,1499.0,75.0,4.4,0,India,NO,male,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+OFF LIMITS,men,sneaker,1499.0,61.0,2.5,0,India,NO,male,0.0
+HEALTH,men,slipper,789.0,21.0,3.9,50,India,NO,male,39450.0
+AADI,men,shoe,479.0,76.0,3.7,0,India,NO,male,0.0
+JQR,men,shoe,1353.0,29.0,4.2,0,India,NO,male,0.0
+PARAGON,boy,shoe,589.0,26.0,3.8,0,India,NO,male,0.0
+LOUIS,men,boot,1999.0,50.0,3.7,0,India,NO,male,0.0
+Woodland,men,sandal,2246.0,55.0,3.6,0,India,NO,male,0.0
+ASICS,unisex,shoe,6599.0,6.0,4.2,0,India,NO,unisex,0.0
+Neeman,boy,shoe,1919.0,45.0,4.6,0,India,NO,male,0.0
+Puma,unisex,sneaker,3499.0,61.0,3.8,0,India,NO,unisex,0.0
+OFF LIMITS,men,shoe,1299.0,70.0,3.5,0,India,NO,male,0.0
+HEALTH,men,slipper,999.0,38.0,3.5,0,India,NO,male,0.0
+TRASE,women,slipper,679.0,51.0,3.9,0,India,NO,female,0.0
+HEALTH,women,slipper,599.0,40.0,3.8,0,India,NO,female,0.0
+Big Player,men,slipper,899.0,61.0,3.8,0,India,NO,male,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,YES,female,0.0
+DRUNKEN,girl,slipper,674.0,69.0,4.3,0,China,NO,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Bata,women,slipper,408.0,32.0,4.0,0,India,NO,female,0.0
+Bata,women,sandal,980.0,25.0,4.1,50,India,NO,female,49000.0
+Bata,women,heel,853.0,29.0,4.0,0,India,NO,female,0.0
+CANVI,women,sandal,699.0,53.0,4.0,0,India,NO,female,0.0
+Bata,women,heel,675.0,39.0,3.8,50,India,NO,female,33750.0
+Unistar,men,boot,849.0,17.0,3.8,0,India,NO,male,0.0
+Tara,men,shoe,995.0,50.0,3.4,0,India,NO,male,0.0
+FAUSTO,men,shoe,999.0,75.0,3.1,0,India,NO,male,0.0
+Bata,men,slipper,949.0,5.0,3.7,0,India,NO,male,0.0
+CULTSPORT,men,shoe,2148.0,57.0,3.5,0,Vietnam,NO,male,0.0
+FAUSTO,men,shoe,1274.0,68.0,3.6,0,India,NO,male,0.0
+DFR,girl,heel,389.0,61.0,4.0,0,India,NO,female,0.0
+Bata,women,heel,680.0,32.0,3.8,0,India,NO,female,0.0
+SPARX,men,sandal,629.0,29.0,4.0,100,India,NO,male,62900.0
+DFR,men,shoe,619.0,38.0,5.0,0,India,NO,male,0.0
+ORTHO JOY,women,slipper,854.0,43.0,5.0,0,India,NO,female,0.0
+Bata,women,sandal,980.0,25.0,4.1,50,India,NO,female,49000.0
+Bata,women,sandal,904.0,15.0,4.1,0,India,NO,female,0.0
+Doctor Extra Soft,women,sandal,598.0,67.0,4.6,0,India,NO,female,0.0
+Bata,women,sandal,389.0,22.0,4.0,0,India,NO,female,0.0
+ANNTS,women,sandal,549.0,58.0,4.0,0,India,NO,female,0.0
+Shoetopia,women,shoe,809.0,73.0,1.0,0,India,NO,female,0.0
+Louis Phillippe,men,shoe,3249.0,35.0,3.1,0,India,NO,male,0.0
+SPARX,boy,sneaker,650.0,7.0,3.8,0,India,NO,male,0.0
+ASIAN,men,shoe,799.0,27.0,3.7,0,India,NO,male,0.0
+Puma,girl,sneaker,2099.0,30.0,4.0,0,India,NO,female,0.0
+AADI,women,slipper,149.0,85.0,3.0,0,India,NO,female,0.0
+Karam,men,shoe,1739.0,35.0,4.7,0,India,NO,male,0.0
+ASIAN,men,shoe,689.0,47.0,3.6,0,India,YES,male,0.0
+Bata,women,loafer,1936.0,23.0,3.3,0,India,NO,female,0.0
+Neeman,men,sneaker,2099.0,54.0,3.8,0,India,NO,male,0.0
+Vector,men,shoe,1720.0,24.0,3.7555556,0,India,NO,male,0.0
+ASICS,unisex,sandal,1419.0,41.0,3.9,0,India,NO,unisex,0.0
+Karam,men,shoe,5565.0,23.0,4.4,0,India,NO,male,0.0
+Puma,men,shoe,2499.0,50.0,4.0,0,India,NO,male,0.0
+Puma,unisex,sneaker,3709.0,33.0,4.1,0,Vietnam,NO,unisex,0.0
+Bata,men,loafer,543.0,22.0,3.3,0,India,NO,male,0.0
+FAUSTO,men,loafer,1599.0,68.0,3.9,0,India,NO,male,0.0
+Campus,men,shoe,1249.0,46.0,3.9,50,India,NO,male,62450.0
+Bacca Bucci,men,shoe,2199.0,45.0,3.9,0,India,NO,male,0.0
+Woodland,men,sandal,2306.0,30.0,4.3,0,India,NO,male,0.0
+Bata,men,shoe,1699.0,29.321428,3.9,0,India,NO,male,0.0
+Nike,men,shoe,4995.0,14.666667,3.8,0,Vietnam,NO,male,0.0
+Vector,men,shoe,1838.0,23.0,3.8,0,India,NO,male,0.0
+Puma,unisex,shoe,2474.0,55.0,4.1,0,Vietnam,NO,unisex,0.0
+egoss,men,shoe,3320.0,5.0,4.1,0,India,NO,male,0.0
+Red Tape,men,shoe,2875.0,10.0,3.8,0,India,NO,male,0.0
+Bata,men,shoe,2180.0,5.0,3.9,0,India,NO,male,0.0
+Jaripeo,men,shoe,2064.0,41.0,3.3,0,India,NO,male,0.0
+ATHCO,men,shoe,599.0,76.0,5.0,0,India,NO,male,0.0
+Puma,men,shoe,1649.0,70.0,3.8,0,India,NO,male,0.0
+Puma,unisex,sneaker,3290.0,53.0,3.7,0,India,NO,unisex,0.0
+FAUSTO,men,shoe,1359.0,20.0,3.2,0,India,NO,male,0.0
+San Frissco,men,loafer,1559.0,74.0,5.0,0,India,NO,male,0.0
+Puma,women,shoe,5028.0,50.0,3.8,0,Vietnam,NO,female,0.0
+Clarks,men,shoe,5000.0,50.0,3.7,0,China,NO,male,0.0
+Hush Puppies,men,shoe,2419.0,52.0,4.0,0,India,NO,male,0.0
+ASIAN,men,shoe,1499.0,47.0,3.9,0,India,NO,male,0.0
+Puma,unisex,shoe,1264.0,49.0,3.9,0,India,NO,unisex,0.0
+Clarks,women,sandal,4410.0,51.0,3.9,0,China,NO,female,0.0
+Hush Puppies,men,loafer,2631.0,42.0,2.9,0,India,NO,male,0.0
+Woodland,men,sneaker,2606.0,42.0,3.9,0,India,NO,male,0.0
+ATHCO,men,shoe,749.0,75.0,3.9,0,India,NO,male,0.0
+Campus,men,shoe,1199.0,37.0,3.9,300,India,NO,male,359700.0
+Hush Puppies,men,shoe,3666.0,39.0,3.8,0,India,NO,male,0.0
+Mochi,women,boot,2194.0,45.0,4.0,0,India,NO,female,0.0
+AVANT,men,shoe,699.0,33.0,3.7,0,India,NO,male,0.0
+Clarks,men,shoe,4249.0,29.0,4.0,0,India,NO,male,0.0
+adidas,men,slipper,1079.0,40.0,3.8,0,India,NO,male,0.0
+TrueYarn,men,slipper,1399.0,60.0,4.1,0,India,NO,male,0.0
+Hush Puppies,men,shoe,2026.0,42.0,3.2,0,India,NO,male,0.0
+Allen Cooper,men,shoe,1291.0,70.0,3.7,0,India,NO,male,0.0
+Vector,men,shoe,624.0,22.444445,5.0,0,India,NO,male,0.0
+Eego,men,shoe,999.0,50.0,3.5,0,Italy,NO,male,0.0
+LOUIS,men,shoe,1897.0,46.0,4.2,0,India,NO,male,0.0
+Bata,men,shoe,1439.0,20.0,3.9,0,India,NO,male,0.0
+FASHION,men,shoe,899.0,50.0,3.2,0,India,NO,male,0.0
+Red Tape,men,loafer,2124.0,15.0,3.4166667,0,India,NO,male,0.0
+Puma,men,sneaker,2145.0,61.0,3.2,0,India,NO,male,0.0
+Zoom,men,shoe,2168.0,33.0,4.4,0,India,NO,male,0.0
+ARAMISH,men,shoe,2099.0,54.0,4.2,0,India,NO,male,0.0
+Hush Puppies,men,shoe,2096.0,48.0,3.7,0,India,NO,male,0.0
+Liberty,women,slipper,1699.0,40.333332,3.7,0,India,NO,female,0.0
+Red Tape,men,sneaker,1040.0,31.0,3.6,0,India,NO,male,0.0
+Karam,men,shoe,2199.0,45.0,3.6,0,India,NO,male,0.0
+Campus,men,shoe,1099.0,40.92857,4.0,0,India,NO,male,0.0
+Cantabil,men,sneaker,1120.0,60.0,3.5,0,India,NO,male,0.0
+SHOESHINE,men,shoe,899.0,64.0,4.3,0,China,NO,male,0.0
+San Frissco,men,shoe,1528.0,66.0,5.0,0,India,NO,male,0.0
+Louis Phillippe,men,shoe,3049.0,39.0,3.9,0,India,NO,male,0.0
+LOUIS,men,boot,2949.0,51.0,4.1,0,India,NO,male,0.0
+ABROS,boy,shoe,1499.0,28.5,4.1,0,India,NO,male,0.0
+Lee Cooper,men,shoe,2686.0,19.0,3.6,0,India,NO,male,0.0
+YOHO,men,sneaker,2699.0,36.0,3.9,0,India,NO,male,0.0
+Mochi,men,shoe,2094.0,40.0,4.2,0,India,NO,male,0.0
+Skechers,men,slipper,1739.0,42.0,3.9,0,China,NO,male,0.0
+SG,men,shoe,930.0,7.0,2.8,0,India,NO,male,0.0
+Columbia,men,boot,11999.0,22.0,4.6,0,Vietnam,NO,male,0.0
+SPARX,men,sneaker,968.0,25.0,3.9,0,India,NO,male,0.0
+Bata,women,slipper,875.0,27.0,3.8,0,India,NO,female,0.0
+OFF LIMITS,men,sneaker,2299.0,73.0,3.3,0,India,NO,male,0.0
+Woodland,men,sneaker,2596.0,32.0,3.7,0,India,NO,male,0.0
+GRAH,men,shoe,199.0,50.0,4.2,0,India,NO,male,0.0
+Jaripeo,men,shoe,2519.0,30.0,2.0,0,India,NO,male,0.0
+SPARX,men,shoe,974.0,37.0,4.0,0,India,NO,male,0.0
+Woodland,men,loafer,2197.0,45.0,3.5,0,India,NO,male,0.0
+Mallcom,men,boot,3499.0,30.0,3.4,0,India,NO,male,0.0
+ASIAN,men,shoe,1199.0,53.0,4.2,0,India,NO,male,0.0
+Puma,men,sneaker,2879.0,52.0,2.9,0,India,NO,male,0.0
+Vetro,men,shoe,735.0,82.0,4.3,0,India,NO,male,0.0
+ASIAN,men,shoe,1199.0,48.0,3.4,0,India,NO,male,0.0
+JQR,men,sneaker,999.0,67.0,3.8,0,India,NO,male,0.0
+AVANT,men,shoe,1199.0,40.0,4.0,0,India,NO,male,0.0
+Dekkin,men,slipper,680.0,32.0,4.1,0,India,NO,male,0.0
+SG,men,shoe,889.0,11.0,2.1,0,India,NO,male,0.0
+ASIAN,boy,sneaker,699.0,30.0,3.7263157,0,India,NO,male,0.0
+Legwork,men,loafer,2999.0,67.0,3.6,0,India,NO,male,0.0
+Shoetopia,women,shoe,599.0,70.0,4.3,0,India,NO,female,0.0
+FootStation,men,sneaker,569.0,43.0,4.4,0,India,NO,male,0.0
+PASSION,girl,shoe,539.0,46.0,3.9,0,India,NO,female,0.0
+Woodland,men,slipper,1856.0,26.0,3.8,0,India,NO,male,0.0
+North,men,shoe,494.0,67.0,5.0,0,India,NO,male,0.0
+DESI,men,loafer,1265.0,68.0,4.2,0,India,NO,male,0.0
+FAUSTO,men,sneaker,1274.0,64.0,3.2,0,India,NO,male,0.0
+The Souled Store,men,shoe,299.0,77.0,4.6,0,China,NO,male,0.0
+EVOLTAR,women,heel,565.0,72.0,3.7,0,India,NO,female,0.0
+Power,men,shoe,1332.0,33.0,3.9,0,India,NO,male,0.0
+WALKAROO,men,sandal,517.0,1.0,3.8,0,India,NO,male,0.0
+Sagar,men,shoe,799.0,60.0,4.5,0,India,NO,male,0.0
+LOUIS,men,shoe,3321.0,53.0,4.0,0,India,NO,male,0.0
+JACK,men,sneaker,2699.0,55.0,5.0,0,India,NO,male,0.0
+Skechers,women,sandal,1899.0,50.0,4.3,0,China,NO,female,0.0
+Coolz,unisex,shoe,298.0,50.0,4.0,0,India,NO,unisex,0.0
+Woodland,men,sneaker,2858.0,33.0,4.4,0,India,NO,male,0.0
+Woodland,men,sneaker,3039.0,29.0,4.1,0,India,NO,male,0.0
+Puma,unisex,sneaker,1899.0,37.0,4.1,0,India,NO,unisex,0.0
+Action,men,shoe,899.0,53.0,3.6,0,India,NO,male,0.0
+Ajanta,men,shoe,499.0,44.0,3.5,0,India,NO,male,0.0
+Puma,men,sneaker,1999.0,56.0,3.6,0,India,NO,male,0.0
+YOHO,men,boot,2949.0,31.0,5.0,0,India,NO,male,0.0
+Vector,men,shoe,767.0,14.0,3.6,0,India,NO,male,0.0
+Inflation,men,shoe,1649.0,45.0,4.8,0,India,NO,male,0.0
+PRO,men,shoe,3499.0,22.0,4.0333333,0,India,NO,male,0.0
+Clan,men,shoe,6799.0,24.0,4.4,0,India,NO,male,0.0
+Casual,men,sneaker,599.0,50.0,3.7,0,India,NO,male,0.0
+Nivia,men,shoe,1399.0,39.0,1.0,0,India,NO,male,0.0
+Red Tape,men,loafer,2124.0,15.0,3.4166667,0,India,NO,male,0.0
+Columbia,men,shoe,11999.0,22.0,4.5,0,Vietnam,NO,male,0.0
+Adidas,unisex,shoe,2012.0,44.0,3.8,0,India,NO,unisex,0.0
+Woodland,men,shoe,1699.0,35.47826,3.5,0,India,NO,male,0.0
+HUNDRED,men,shoe,1899.0,32.0,4.0,0,India,NO,male,0.0
+Puma,unisex,sneaker,1719.0,49.92157,3.8,0,India,NO,unisex,0.0
+WALKAROO,boy,shoe,497.0,1.0,4.0,0,India,NO,male,0.0
+Bata,women,sandal,1013.0,22.0,4.1,100,India,NO,female,101300.0
+Bata,women,sandal,599.0,33.0,4.1,50,India,NO,female,29950.0
+Bata,women,sandal,1274.0,25.0,3.8,0,India,NO,female,0.0
+Bata,women,sandal,600.0,60.0,3.2,0,India,NO,female,0.0
+Karam,men,shoe,2199.0,45.0,3.6,0,India,NO,male,0.0
+Campus,men,shoe,1099.0,40.92857,4.0,0,India,NO,male,0.0
+Cantabil,men,sneaker,1120.0,60.0,3.5,0,India,NO,male,0.0
+SHOESHINE,men,shoe,899.0,64.0,4.3,0,China,NO,male,0.0
+San Frissco,men,shoe,1528.0,66.0,5.0,0,India,NO,male,0.0
+Louis Phillippe,men,shoe,3049.0,39.0,3.9,0,India,NO,male,0.0
+LOUIS,men,boot,2949.0,51.0,4.1,0,India,NO,male,0.0
+ABROS,boy,shoe,1499.0,28.5,4.1,0,India,NO,male,0.0
+Lee Cooper,men,shoe,2686.0,19.0,3.6,0,India,NO,male,0.0
+YOHO,men,sneaker,2699.0,36.0,3.9,0,India,NO,male,0.0
+LOUIS,men,shoe,2561.0,49.0,4.0,0,India,NO,male,0.0
+Mochi,men,shoe,2094.0,40.0,4.2,0,India,NO,male,0.0
+Skechers,men,slipper,1739.0,42.0,3.9,0,China,NO,male,0.0
+SG,men,shoe,930.0,7.0,2.8,0,India,NO,male,0.0
+Columbia,men,boot,11999.0,22.0,4.6,0,Vietnam,NO,male,0.0
+Bata,women,sandal,809.0,38.0,4.2,100,India,NO,female,80900.0
+Bata,women,sandal,715.0,28.0,4.0,50,India,NO,female,35750.0
+Centrino,women,slipper,789.0,68.0,3.6,0,India,NO,female,0.0
+SPARX,men,sneaker,968.0,25.0,3.9,0,India,NO,male,0.0
+Bata,women,slipper,875.0,27.0,3.8,0,India,NO,female,0.0
+OFF LIMITS,men,sneaker,2299.0,73.0,3.3,0,India,NO,male,0.0
+Woodland,men,sneaker,2596.0,32.0,3.7,0,India,NO,male,0.0
+GRAH,men,shoe,199.0,50.0,4.2,0,India,NO,male,0.0
+Jaripeo,men,shoe,2519.0,30.0,2.0,0,India,NO,male,0.0
+SPARX,men,shoe,974.0,37.0,4.0,0,India,NO,male,0.0
+Woodland,men,loafer,2197.0,45.0,3.5,0,India,NO,male,0.0
+Mallcom,men,boot,3499.0,30.0,3.4,0,India,NO,male,0.0
+ASIAN,men,shoe,1199.0,53.0,4.2,0,India,NO,male,0.0
+Puma,men,sneaker,2879.0,52.0,2.9,0,India,NO,male,0.0
+Vetro,men,shoe,735.0,82.0,4.3,0,India,NO,male,0.0
+ASIAN,men,shoe,1199.0,48.0,3.4,0,India,NO,male,0.0
+Metro,women,sandal,2467.0,25.0,3.8222222,0,India,NO,female,0.0
+Woodland,men,sneaker,2814.0,34.0,3.8,0,India,NO,male,0.0
+LOUIS,men,shoe,2699.0,46.0,4.0,0,India,NO,male,0.0
+ARAMISH,men,shoe,1649.0,34.0,3.6,0,India,NO,male,0.0
+Lee Cooper,men,shoe,2999.0,29.333334,3.7,0,India,NO,male,0.0
+Puma,men,sneaker,1819.0,55.0,3.9,0,India,NO,male,0.0
+Heels,women,heel,897.0,64.0,3.9,0,India,NO,female,0.0
+ARAMISH,men,shoe,1699.0,48.0,3.5,0,India,NO,male,0.0
+Bata,men,shoe,2004.0,28.0,3.8,0,India,NO,male,0.0
+ABROS,men,shoe,1671.0,12.0,4.5,0,India,NO,male,0.0
+Liberty,men,shoe,2499.0,40.333332,3.75,0,India,NO,male,0.0
+Bigboon,men,shoe,1325.0,22.0,3.9,0,India,NO,male,0.0
+Bata,women,sandal,595.0,26.0,4.3,50,India,NO,female,29750.0
+Bata,women,heel,677.0,38.0,3.8,0,India,NO,female,0.0
+Centrino,women,slipper,789.0,68.0,3.3,0,India,NO,female,0.0
+Bata,women,sandal,599.0,40.0,3.9,0,India,NO,female,0.0
+SENCUS,men,shoe,999.0,33.0,3.1,0,India,NO,male,0.0
+SEGA,men,shoe,1930.0,1.0,2.9,0,India,NO,male,0.0
+Skechers,men,shoe,3599.0,40.0,4.1,0,Vietnam,NO,male,0.0
+Woodland,men,sneaker,2476.0,33.0,3.8,0,India,NO,male,0.0
+Bacca Bucci,men,shoe,1499.0,50.0,3.8,0,India,NO,male,0.0
+Campus,men,shoe,999.0,50.0,3.7,0,India,NO,male,0.0
+FASHION,men,shoe,899.0,74.0,3.5,0,India,NO,male,0.0
+TrueYarn,men,sandal,1499.0,57.0,4.5,0,India,NO,male,0.0
+Puma,unisex,shoe,4049.0,55.0,3.8,0,China,NO,unisex,0.0
+Metro,men,sandal,1396.0,60.0,3.0,0,India,NO,male,0.0
+Van Heausen,men,shoe,2439.0,43.0,3.9,0,India,NO,male,0.0
+Bata,men,shoe,919.0,8.0,3.8,0,India,NO,male,0.0
+Nike,men,sandal,1994.0,9.0,3.8,0,Vietnam,NO,male,0.0
+Glemia,men,shoe,1749.0,42.0,5.0,0,India,NO,male,0.0
+Woodland,men,sandal,1902.0,36.0,3.7,0,India,NO,male,0.0
+LOUIS,men,shoe,3321.0,53.0,4.2,0,India,NO,male,0.0
+Liberty,men,loafer,943.0,65.0,3.5,0,India,NO,male,0.0
+Hush Puppies,men,loafer,6399.0,20.0,4.0,0,India,NO,male,0.0
+Woodland,men,sneaker,1847.0,50.0,4.1,0,India,NO,male,0.0
+Bata,men,shoe,539.0,73.0,3.9,0,India,NO,male,0.0
+FAUSTO,men,sandal,934.0,69.0,3.9,0,India,NO,male,0.0
+Bata,men,shoe,1379.0,19.0,3.9,0,India,NO,male,0.0
+Red Tape,men,shoe,2399.0,70.0,3.2,0,India,NO,male,0.0
+Hush Puppies,men,shoe,1350.0,50.0,3.6,0,India,NO,male,0.0
+Rising,men,shoe,749.0,63.0,3.9,0,India,NO,male,0.0
+SPARX,men,shoe,1344.0,16.0,1.0,0,India,NO,male,0.0
+WESTCODE,men,boot,1349.0,66.0,3.9,0,India,NO,male,0.0
+LOUIS,men,boot,2999.0,50.0,4.1,0,India,NO,male,0.0
+Zaydn,men,sneaker,1399.0,46.0,2.8,0,India,NO,male,0.0
+Liberty,women,slipper,1699.0,40.333332,3.7,0,India,NO,female,0.0
+ATHCO,men,sneaker,599.0,65.0,4.3,0,India,NO,male,0.0
+PRO,men,shoe,800.0,11.0,3.9,0,India,NO,male,0.0
+Woodland,men,sneaker,2913.0,40.0,3.0,0,India,NO,male,0.0
+ASIAN,men,loafer,757.0,42.0,4.0,0,India,NO,male,0.0
+THNXBRO,men,shoe,1496.0,57.0,3.2,0,India,NO,male,0.0
+Skechers,men,sneaker,2699.0,51.0,3.8,0,Vietnam,NO,male,0.0
+Bata,women,sandal,981.0,24.0,3.8,0,India,NO,female,0.0
+Doctor Extra Soft,women,slipper,379.0,62.0,4.8,0,India,NO,female,0.0
+Doctor Extra Soft,women,slipper,474.0,53.0,4.2,0,India,NO,female,0.0
+Doctor Extra Soft,men,slipper,474.0,53.0,4.2,0,India,NO,male,0.0
+Puma,men,shoe,4200.0,44.0,4.0,0,Vietnam,NO,male,0.0
+Metro,men,shoe,1644.0,45.0,5.0,0,India,NO,male,0.0
+Red Tape,men,loafer,3148.0,53.0,3.4166667,0,India,NO,male,0.0
+TCCO,men,sneaker,299.0,70.0,4.3,4,China,NO,male,1196.0
+Doctor Extra Soft,women,sandal,799.0,56.0,4.6,0,India,NO,female,0.0
+YOHO,women,slipper,496.0,29.0,4.0,50,India,YES,female,24800.0
+YOHO,women,slipper,548.0,63.0,4.2,0,India,YES,female,0.0
+TRASE,women,flip-flop,679.0,51.0,4.0,0,India,NO,female,0.0
+Vector,boy,shoe,999.0,17.0,3.5,0,India,NO,male,0.0
+SOLETHREADS,men,sneaker,1499.0,50.0,3.7,0,India,NO,male,0.0
+Liberty,men,shoe,1439.0,10.0,3.8,0,India,NO,male,0.0
+ADDA,women,slipper,799.0,11.0,4.1,0,Thailand,NO,female,0.0
+ASICS,men,shoe,5999.0,14.0,3.8,0,India,NO,male,0.0
+Kids,unisex,shoe,399.0,60.0,4.6,0,India,NO,unisex,0.0
+Zaydn,men,sneaker,1499.0,50.0,4.0,0,India,YES,male,0.0
+Neeman,men,sneaker,2499.0,55.0,3.6,0,India,NO,male,0.0
+PRATTLE,boy,shoe,399.0,56.0,3.4,0,India,NO,male,0.0
+Bacca Bucci,men,shoe,999.0,60.0,3.6,0,India,NO,male,0.0
+Eego,men,shoe,999.0,50.0,5.0,0,India,NO,male,0.0
+SOLETHREADS,men,sneaker,1484.0,55.0,5.0,0,India,NO,male,0.0
+JQR,men,shoe,947.0,10.0,4.3,0,India,NO,male,0.0
+BRUTON,men,shoe,298.0,77.0,2.6,0,India,NO,male,0.0
+Red Tape,men,loafer,2124.0,15.0,3.4166667,0,India,NO,male,0.0
+STANPHORD,men,shoe,939.0,61.0,3.8,0,India,NO,male,0.0
+Woodland,men,sneaker,2661.0,38.0,3.5,0,India,NO,male,0.0
+JQR,men,shoe,1899.0,44.0,4.1,0,India,NO,male,0.0
+ID,men,shoe,1992.0,50.0,3.6,0,India,NO,male,0.0
+Bacca Bucci,men,sneaker,1599.0,47.0,2.9,0,India,NO,male,0.0
+Allen Cooper,men,shoe,1932.0,26.0,3.9,0,India,NO,male,0.0
+CASSIEY,men,slipper,399.0,20.0,3.95,0,India,NO,male,0.0
+CLYMB,men,sneaker,599.0,60.0,2.8,0,India,NO,male,0.0
+egoss,men,loafer,3419.0,5.0,3.2,0,India,NO,male,0.0
+ASIAN,men,shoe,1118.0,49.0,3.4,0,India,NO,male,0.0
+ASIAN,men,shoe,1429.0,50.0,3.9,0,India,NO,male,0.0
+Karam,men,shoe,4118.0,23.0,3.2,0,India,NO,male,0.0
+Symbol,men,shoe,2699.0,43.0,3.6,0,India,NO,male,0.0
+FORSSIL,boy,loafer,575.0,42.0,3.4,0,India,NO,male,0.0
+SIR,men,loafer,1115.0,72.0,4.2,0,India,NO,male,0.0
+Nike,unisex,sneaker,9674.0,26.0,4.0,0,Vietnam,NO,unisex,0.0
+REETIK,men,boot,399.0,50.0,3.5,0,India,NO,male,0.0
+ADDA,women,slipper,729.0,11.0,3.8,0,Thailand,NO,female,0.0
+BERSACHE,boy,sneaker,799.0,60.0,3.3,0,India,NO,male,0.0
+Puma,unisex,sneaker,4799.0,52.0,3.8,0,India,NO,unisex,0.0
+Columbus,men,shoe,1749.0,65.0,3.7,0,India,NO,male,0.0
+Bata,men,loafer,2867.0,43.0,3.8,0,India,NO,male,0.0
+ASIAN,men,shoe,1409.0,51.0,3.6,0,India,NO,male,0.0
+Neeman,women,slipper,479.0,68.0,4.0,0,India,NO,female,0.0
+Bourge,men,shoe,819.0,45.0,4.0,0,India,NO,male,0.0
+Nivia,women,heel,1528.0,39.0,3.9,0,India,NO,female,0.0
+BRUTON,men,shoe,498.0,80.0,3.1,0,India,NO,male,0.0
+Dr.Ortho,men,shoe,2099.0,58.0,4.3,0,India,NO,male,0.0
+Puma,unisex,sneaker,4300.0,57.0,4.0,0,Vietnam,NO,unisex,0.0
+Woodland,men,slipper,1446.0,37.0,3.0,0,India,NO,male,0.0
+Woodland,men,flip-flop,433.0,27.0,3.6,0,India,NO,male,0.0
+PRO,men,shoe,798.0,67.0,3.2,0,India,NO,male,0.0
+Vector,men,shoe,849.0,26.0,4.0,50,India,NO,male,42450.0
+Puma,unisex,sneaker,4645.0,54.0,5.0,0,China,NO,unisex,0.0
+Skechers,men,slipper,1998.0,44.6875,4.0266666,0,India,NO,male,0.0
+Liberty,men,shoe,399.0,40.333332,3.8,0,India,NO,male,0.0
+Woodland,men,shoe,2397.0,40.0,3.8,0,India,NO,male,0.0
+Puma,unisex,sneaker,2324.0,42.0,3.9117646,0,China,NO,unisex,0.0
+OZJI,men,shoe,749.0,75.0,2.7,0,India,NO,male,0.0
+Zoom,men,shoe,2019.0,41.0,4.3,0,India,NO,male,0.0
+KARAM,men,shoe,2329.0,42.0,3.8,0,India,NO,male,0.0
+Liberty,men,shoe,1979.0,10.0,3.6,0,India,NO,male,0.0
+Skechers,men,shoe,3149.0,55.0,4.0266666,0,Vietnam,NO,male,0.0
+Columbus,men,shoe,1499.0,63.0,4.3,0,India,NO,male,0.0
+BXXY,men,shoe,1110.0,63.0,3.4,0,India,NO,male,0.0
+Woodland,men,slipper,1482.0,45.0,3.5,0,India,NO,male,0.0
+Puma,men,shoe,2579.0,40.0,4.4,0,India,NO,male,0.0
+Vector,men,shoe,1129.0,25.0,2.8,0,India,NO,male,0.0
+Vector,men,shoe,1249.0,26.0,3.6,0,India,NO,male,0.0
+PRO,unisex,shoe,948.0,61.0,5.0,0,India,NO,unisex,0.0
+Sassyvilla,women,slipper,1858.0,26.0,4.0,0,India,NO,female,0.0
+DSC,men,shoe,929.0,3.0,3.9,0,India,NO,male,0.0
+Centrino,men,loafer,559.0,71.0,3.3,0,India,NO,male,0.0
+SHOESHINE,men,shoe,279.0,54.0,4.2,0,China,NO,male,0.0
+Prokick,men,shoe,999.0,23.0,5.0,0,India,NO,male,0.0
+SIR,men,loafer,1115.0,72.0,3.1,0,India,NO,male,0.0
+Vector,men,shoe,1528.0,22.444445,3.7,0,India,NO,male,0.0
+Woodland,men,slipper,491.0,29.0,3.6826086,0,India,NO,male,0.0
+Woodland,men,sandal,802.0,33.0,3.5,0,India,NO,male,0.0
+Liberty,men,shoe,499.0,40.333332,3.6,0,India,NO,male,0.0
+Nike,men,shoe,13995.0,14.666667,3.98,0,Vietnam,NO,male,0.0
+Star,boy,boot,329.0,67.0,2.0,0,India,NO,male,0.0
+HEALTH,men,shoe,1799.0,40.0,5.0,0,India,NO,male,0.0
+Bata,women,loafer,1936.0,23.0,3.3,0,India,NO,female,0.0
+Neeman,men,sneaker,2099.0,54.0,3.8,0,India,NO,male,0.0
+Vector,men,shoe,1720.0,24.0,3.7555556,0,India,NO,male,0.0
+ASICS,unisex,sandal,1419.0,41.0,3.9,0,India,NO,unisex,0.0
+Karam,men,shoe,5565.0,23.0,4.7,0,India,NO,male,0.0
+Bata,men,loafer,510.0,27.0,3.3,0,India,NO,male,0.0
+FAUSTO,men,loafer,1599.0,68.0,3.9,0,India,NO,male,0.0
+Campus,men,shoe,1249.0,46.0,3.9,50,India,NO,male,62450.0
+Woodland,men,sandal,2306.0,30.0,4.3,0,India,NO,male,0.0
+Bata,men,shoe,1699.0,29.321428,3.9,0,India,NO,male,0.0
+Nike,men,shoe,4995.0,14.666667,3.8,0,Vietnam,NO,male,0.0
+Vector,men,shoe,1838.0,23.0,3.8,0,India,NO,male,0.0
+Puma,unisex,shoe,2474.0,55.0,4.1,0,Vietnam,NO,unisex,0.0
+egoss,men,shoe,3320.0,5.0,4.1,0,India,NO,male,0.0
+Clarks,men,shoe,4249.0,29.0,4.0,0,India,NO,male,0.0
+Red Tape,men,shoe,2875.0,10.0,3.8,0,India,NO,male,0.0
+ANDUNE,men,shoe,2499.0,11.0,3.5,0,China,NO,male,0.0
+Bata,men,shoe,2180.0,5.0,3.9,0,India,NO,male,0.0
